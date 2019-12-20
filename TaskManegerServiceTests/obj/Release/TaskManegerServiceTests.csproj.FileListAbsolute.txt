@@ -1,0 +1,118 @@
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\ApplicationInsights.config
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\csc.exe
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\csc.exe.config
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\csc.rsp
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\csi.exe
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\csi.rsp
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\System.AppContext.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\vbc.exe.config
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\vbc.rsp
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerServiceTests.dll.config
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerServiceTests.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerServiceTests.pdb
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Castle.Core.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Moq.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerService.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.Cors.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Cors.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerService.pdb
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerService.dll.config
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Castle.Core.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Moq.pdb
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Moq.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.Cors.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\obj\Release\TaskManegerServiceTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\obj\Release\TaskManegerServiceTests.dll
+C:\Users\Administrator\Documents\Manoj\Final Certification\TaskManegerService\TaskManegerServiceTests\obj\Release\TaskManegerServiceTests.pdb
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\ApplicationInsights.config
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerServiceTests.dll.config
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerServiceTests.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerServiceTests.pdb
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Castle.Core.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Moq.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerService.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Optimization.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Mvc.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.Cors.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\EntityFramework.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Net.Http.Formatting.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Newtonsoft.Json.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.WebHost.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Razor.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Razor.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Cors.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Deployment.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerService.pdb
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\TaskManegerService.dll.config
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Castle.Core.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Moq.pdb
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Moq.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Optimization.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Mvc.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.Cors.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\EntityFramework.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Net.Http.Formatting.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\Newtonsoft.Json.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Http.WebHost.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.Razor.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Razor.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\bin\Release\System.Web.WebPages.Deployment.xml
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\obj\Release\TaskManegerServiceTests.csprojResolveAssemblyReference.cache
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\obj\Release\TaskManegerServiceTests.dll
+C:\My-Project\Final\TaskManegerService\TaskManegerServiceTests\obj\Release\TaskManegerServiceTests.pdb
